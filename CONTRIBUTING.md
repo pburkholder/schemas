@@ -20,7 +20,7 @@ with this waiver of copyright interest.
 
 ## Versioning
 
-This project abides by [Semantic Versioning](http://semver.org/). [The Kwalify file](opencontrol-component-kwalify-schema.yaml) will be the source of truth for any given version. Examples of what would constitute each type of version bump are below.
+This project abides by [Semantic Versioning](http://semver.org/). [The Kwalify files](kwalify/) will be the source of truth for any given version. Examples of what would constitute each type of version bump are below.
 
 ### Major
 
